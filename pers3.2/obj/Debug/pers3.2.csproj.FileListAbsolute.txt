@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\pers3.2\bin\Debug\pers3.2.exe.config
+C:\Users\user\source\repos\pers3.2\bin\Debug\pers3.2.exe
+C:\Users\user\source\repos\pers3.2\bin\Debug\pers3.2.pdb
+C:\Users\user\source\repos\pers3.2\obj\Debug\pers3.2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\pers3.2\obj\Debug\pers3.2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pers3.2\obj\Debug\pers3.2.exe
+C:\Users\user\source\repos\pers3.2\obj\Debug\pers3.2.pdb
